@@ -1,0 +1,56 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PeixWeb",
+    "description": "",
+    "home_page_url": "https://peixweb.com",
+    "feed_url": "https://peixweb.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Miquel Peix"
+    },
+    "items": [
+        {
+            "id": "https://peixweb.com/static-websites.html",
+            "url": "https://peixweb.com/static-websites.html",
+            "title": "Static Websites",
+            "summary": "Sometimes I am asked to help particulars or little bussines to give them online presence. For most cases I recomend a simple static website (also called \"landing page\"), with that way your client can find you online, and a website will enforce your brand in social&hellip;",
+            "content_html": "<p>Sometimes I am asked to help particulars or little bussines to give them online presence. For most cases I recomend a simple static website (also called \"<em>landing page</em>\"), with that way your client can find you online, and a website will enforce your brand in social media.</p>\n<p>Static website can seem to much simple, but in most cases you don't need more. Pretty simple, an space to present yourself or you business. Today with the power of CSS3 you can get stunning effects. And the maintainence cost can be ridiculous.</p>\n<p>A static page can be written from scratch. I only recomend that way if your are learning HTML and CSS, if you have some expirience you can use amazing tools like CSS frameworks, HTML5 templates, Static Sites Generators, Javascript Plugins, ... . Probably you wont' find online your site already generated, but with a minimal effort you can customize community power solutions to get an stunning website.</p>\n<p>Below you can check links to static websites that I made some years ago:</p>\n<ul>\n<li><a href=\"https://www.messalut.cat\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Més Salut. Fisioteràpia i Osteopatia.\">Més Salut</a></li>\n<li><a href=\"https://www.mariadelestres.com\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Mariadelestrenes. Art i disseny.\">Mariadelestrenes</a></li>\n</ul>",
+            "author": {
+                "name": "Miquel Peix"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-14T10:06:33+01:00",
+            "date_modified": "2019-12-15T08:44:53+01:00"
+        },
+        {
+            "id": "https://peixweb.com/datetime-formater.html",
+            "url": "https://peixweb.com/datetime-formater.html",
+            "title": "Date Formater",
+            "summary": "Simply utility to play with date time formats and see the results in multiple cultures. You only have to type a date format and you will se how should be written in diffrent languages an cultures. The dates are build using MomentJs, one of the&hellip;",
+            "content_html": "<p>Simply utility to play with date time formats and see the results in multiple cultures. You only have to type a date format and you will se how should be written in diffrent languages an cultures.</p>\n<p>The dates are build using <a href=\"https://momentjs.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Momment JS\">MomentJs</a>, one of the most helpfull libraries to work with dates and times in javascript world.</p>\n<p>For the freaks and nostalgics gamers I styled the site with <a href=\"https://nostalgic-css.github.io/NES.css/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Ness css\">ness.css</a>.</p>\n<p>I invite you to try it below, or if you prefer full page experience go here <a href=\"https://dateformatter.peixweb.com/\" target=\"_blank\" rel=\"noopener noreferrer\">=&gt;</a></p>\n<p> </p>\n<iframe width=\"300\" height=\"150\" src=\"https://dateformatter.peixweb.com/\" class=\"custom-iframe\"></iframe>",
+            "image": "https://peixweb.com/media/posts/2/calendar-660670_1920.jpg",
+            "author": {
+                "name": "Miquel Peix"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-31T17:53:11+01:00",
+            "date_modified": "2019-12-15T08:18:59+01:00"
+        },
+        {
+            "id": "https://peixweb.com/url-encoder.html",
+            "url": "https://peixweb.com/url-encoder.html",
+            "title": "Url Decoder ( --&gt; and Encoder !)",
+            "summary": "If you work in web or API develoment, the day when you have to deal with encoded urls will arrive. That situation will occure for example when you need to pass and empty or an special character space inside a param. It's not a complex problem&hellip;",
+            "content_html": "<p>If you work in web or API develoment, the day when you have to deal with encoded urls will arrive. That situation will occure for example when you need to pass and empty or an special character space inside a param. It's not a complex problem to solve, but if you don't keep it in mind can cause some headheache.</p>\n<p>Here you can try a simply utility to get and url encoded or decoded, to use it take the url and paste it in the box. What I like from that tool is it will tell to you how many time an url has been encoded, believe me, more than one time I have seen broken API call due to double encodings! </p>\n<p> </p>\n<iframe width=\"300\" height=\"150\" src=\"https://urldecoder.peixweb.com/\"></iframe>",
+            "author": {
+                "name": "Miquel Peix"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-10-31T17:52:16+01:00",
+            "date_modified": "2019-12-14T09:56:23+01:00"
+        }
+    ]
+}

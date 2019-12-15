@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>PeixWeb</title>
+    <link href="https://peixweb.com/feed.xml" rel="self" />
+    <link href="https://peixweb.com" />
+    <updated>2019-12-15T09:09:48+01:00</updated>
+    <author>
+        <name>Miquel Peix</name>
+    </author>
+    <id>https://peixweb.com</id>
+
+    <entry>
+        <title>Static Websites</title>
+        <author>
+            <name>Miquel Peix</name>
+        </author>
+        <link href="https://peixweb.com/static-websites.html"/>
+        <id>https://peixweb.com/static-websites.html</id>
+
+        <updated>2019-12-15T08:44:53+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Sometimes I am asked to help particulars or little bussines to give them online presence. For most cases I recomend a simple static website (also called "landing page"), with that way your client can find you online, and a website will enforce your brand in social&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Sometimes I am asked to help particulars or little bussines to give them online presence. For most cases I recomend a simple static website (also called "<em>landing page</em>"), with that way your client can find you online, and a website will enforce your brand in social media.</p>
+<p>Static website can seem to much simple, but in most cases you don't need more. Pretty simple, an space to present yourself or you business. Today with the power of CSS3 you can get stunning effects. And the maintainence cost can be ridiculous.</p>
+<p>A static page can be written from scratch. I only recomend that way if your are learning HTML and CSS, if you have some expirience you can use amazing tools like CSS frameworks, HTML5 templates, Static Sites Generators, Javascript Plugins, ... . Probably you wont' find online your site already generated, but with a minimal effort you can customize community power solutions to get an stunning website.</p>
+<p>Below you can check links to static websites that I made some years ago:</p>
+<ul>
+<li><a href="https://www.messalut.cat" target="_blank" rel="noopener noreferrer" title="Més Salut. Fisioteràpia i Osteopatia.">Més Salut</a></li>
+<li><a href="https://www.mariadelestres.com" target="_blank" rel="noopener noreferrer" title="Mariadelestrenes. Art i disseny.">Mariadelestrenes</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Date Formater</title>
+        <author>
+            <name>Miquel Peix</name>
+        </author>
+        <link href="https://peixweb.com/datetime-formater.html"/>
+        <id>https://peixweb.com/datetime-formater.html</id>
+
+        <updated>2019-12-15T08:18:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://peixweb.com/media/posts/2/calendar-660670_1920.jpg" alt="Calendar" />
+                    Simply utility to play with date time formats and see the results in multiple cultures. You only have to type a date format and you will se how should be written in diffrent languages an cultures. The dates are build using MomentJs, one of the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://peixweb.com/media/posts/2/calendar-660670_1920.jpg" alt="Calendar" />
+                <p>Simply utility to play with date time formats and see the results in multiple cultures. You only have to type a date format and you will se how should be written in diffrent languages an cultures.</p>
+<p>The dates are build using <a href="https://momentjs.com/" target="_blank" rel="noopener noreferrer" title="Momment JS">MomentJs</a>, one of the most helpfull libraries to work with dates and times in javascript world.</p>
+<p>For the freaks and nostalgics gamers I styled the site with <a href="https://nostalgic-css.github.io/NES.css/" target="_blank" rel="noopener noreferrer" title="Ness css">ness.css</a>.</p>
+<p>I invite you to try it below, or if you prefer full page experience go here <a href="https://dateformatter.peixweb.com/" target="_blank" rel="noopener noreferrer">=&gt;</a></p>
+<p> </p>
+<iframe width="300" height="150" src="https://dateformatter.peixweb.com/" class="custom-iframe"></iframe>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Url Decoder ( --&gt; and Encoder !)</title>
+        <author>
+            <name>Miquel Peix</name>
+        </author>
+        <link href="https://peixweb.com/url-encoder.html"/>
+        <id>https://peixweb.com/url-encoder.html</id>
+
+        <updated>2019-12-14T09:56:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                    If you work in web or API develoment, the day when you have to deal with encoded urls will arrive. That situation will occure for example when you need to pass and empty or an special character space inside a param. It's not a complex problem&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you work in web or API develoment, the day when you have to deal with encoded urls will arrive. That situation will occure for example when you need to pass and empty or an special character space inside a param. It's not a complex problem to solve, but if you don't keep it in mind can cause some headheache.</p>
+<p>Here you can try a simply utility to get and url encoded or decoded, to use it take the url and paste it in the box. What I like from that tool is it will tell to you how many time an url has been encoded, believe me, more than one time I have seen broken API call due to double encodings! </p>
+<p> </p>
+<iframe width="300" height="150" src="https://urldecoder.peixweb.com/"></iframe>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://peixweb.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://peixweb.com/</loc>
+</url>
+<url>
+<loc>https://peixweb.com/datetime-formater.html</loc>
+<lastmod>2019-12-15T08:18:59+01:00</lastmod>
+<image:image>
+<image:loc>https://peixweb.com/media\posts\2/calendar-660670_1920.jpg</image:loc>
+<image:title><![CDATA[Calendar]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://peixweb.com/static-websites.html</loc>
+<lastmod>2019-12-15T08:44:53+01:00</lastmod>
+</url>
+<url>
+<loc>https://peixweb.com/url-encoder.html</loc>
+<lastmod>2019-12-14T09:56:23+01:00</lastmod>
+</url>
+</urlset>
